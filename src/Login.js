@@ -22,6 +22,9 @@ export const Login = () => {
             width="100%"
           />
         </Grid>
+        <Typography variant="subtitle1" my={2} textAlign="center">
+            This application is for Demo Purposes Only. No Credentials are required to Log In, and no information is required throughout the Prototype to explore the application.
+          </Typography>
         <Grid
           item
           xs={12}
