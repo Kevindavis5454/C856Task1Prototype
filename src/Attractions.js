@@ -19,10 +19,6 @@ export const Attractions = () => {
     imgPath: require('./assets/museum.jpeg'),
   },
   {
-    label: 'Beaches',
-    imgPath: require('./assets/beach1.jpeg'),
-  },
-  {
     label: 'Fishing',
     imgPath: require('./assets/fishing.jpeg'),
   },
